@@ -2,3 +2,6 @@ file 3 text
 public void main(){
 system.out.println("Hello");
 }
+public void method(){
+system.out.println("Hello inside method");
+}
