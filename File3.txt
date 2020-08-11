@@ -1,4 +1,4 @@
-file 3 text
+file 3 text MASTER change
 public void main(){
 system.out.println("Hello");
 }
