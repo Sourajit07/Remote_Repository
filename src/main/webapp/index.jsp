@@ -4,10 +4,10 @@
 <html>
 <head>
 	<meta charset="UTF-8">
-	<title>This is my WebApp title</title>
+	<title>My new WebApp</title>
 	<link rel="stylesheet" type="text/css" href="css/style.css">
 </head>
 <body>
-    <h1>Hello World From Sourajit. I have changed it</h1>
+    <h1>Hello World From Sourajit. How are you all ?</h1>
 </body>
 </html>
